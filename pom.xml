@@ -36,6 +36,8 @@
 		            <password>${anypoint.password}</password>
 		            <applicationName>mule-demo-cicd2-test</applicationName>
 		            <environment>testsandbox</environment>
+					<workerType>Micro</workerType>
+					<workers>1</workers>
 		            <properties>
 		                <key>value</key>
 		            </properties>
