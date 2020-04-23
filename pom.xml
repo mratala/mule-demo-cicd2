@@ -17,7 +17,8 @@
 		<app.runtime>4.2.2-hf2</app.runtime>
 		<mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
 		<anypoint.username>mrsitech2</anypoint.username>
-		<anypoint.password>Q#%d#-9!zu(@`</anypoint.password>		
+		<anypoint.password>Q#%d#-9!zu(@`</anypoint.password>
+		<mule.version>4.2.2</mule.version>
     </properties>
 
 	<build>
