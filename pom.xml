@@ -35,7 +35,7 @@
 		            <username>${anypoint.username}</username>
 		            <password>${anypoint.password}</password>
 		            <applicationName>mule-demo-cicd2</applicationName>
-		            <environment>sandbox</environment>
+		            <environment>testsandbox</environment>
 		            <properties>
 		                <key>value</key>
 		            </properties>
